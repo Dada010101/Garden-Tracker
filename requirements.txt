@@ -1,0 +1,4 @@
+pillow
+sqlite3
+sv_ttk
+matplotlib
